@@ -30,6 +30,4 @@ The leading, easy to deploy, reusable and most automated solution for defining, 
 
 ✅ We invest upwards of 100-200 hours + cloud and tooling costs, equivalent to thousands of dollars per month to support and share our open source code in the form of new modules, PR code reviews, feature requests, issue management, test writing, project updates, documentation additions, among many other upgrades and roll-outs.
 
-**We love open source ❤️ + We really need and appreciate your help** 🙏🏼 
-
-
+[**We love open source ❤️ + We really need and appreciate your help** 🙏🏼 ](https://github.com/sponsors/binbashar)
