@@ -9,7 +9,7 @@
 
 ## Who we are?
 
-[**Binbash**](https://www.binbash.com.ar) was founded in the 🇺🇸  as a remote-first company with a distributed team, our collaborators, most of them AWS certified, are currently located at GTM-3 time zone. Specifically in 🇦🇷 Argentina, 🇧🇷 Brazil and 🇺🇾 Uruguay.
+[**binbash**](https://www.binbash.com.ar) was founded in the 🇺🇸  as a remote-first company with a distributed team, our collaborators, most of them AWS certified, are currently located at GTM-3 time zone. Specifically in 🇦🇷 Argentina, 🇧🇷 Brazil and 🇺🇾 Uruguay.
 
 Our Mission as a [team](https://www.binbash.com.ar/team), is to simplify the process of building, and deploying software in the cloud. We want to help our customers and the community with the ability to create secure, scalable, and highly-available software on top of the best infrastructure and tools available.
 
@@ -19,7 +19,7 @@ More than anything, we imagine a world in which software development teams can p
 
 ## What we do?
 
-We deliver **AWS Well-Architected** Cloud Infrastructure for your Startup with ***[Binbash Leverage™](https://www.binbash.com.ar/leverage)***
+We deliver **AWS Well-Architected** Cloud Infrastructure for your Startup with ***[binbash Leverage™](https://www.binbash.com.ar/leverage)***
 
 The leading, easy to deploy, reusable and most automated solution for defining, provisioning and managing your secure and scalable multi-account AWS infrastructure environment.
 
